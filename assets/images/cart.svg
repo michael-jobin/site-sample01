@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.69 7.41"><defs><style>.cls-1 {
+        fill: none;
+        stroke: #c4a25c;
+        stroke-miterlimit: 10;
+        stroke-width: .4px;
+      }
+
+      .cls-2 {
+        fill: #c4a25c;
+      }</style></defs><g id="_レイヤー_1-2" data-name="レイヤー 1"><g><polyline class="cls-1" points="0 .2 1.48 .2 2.81 5.26 7.46 5.26 8.43 1.64 2.87 1.64"/><g><circle class="cls-2" cx="3.83" cy="6.77" r=".64"/><circle class="cls-2" cx="6.45" cy="6.77" r=".64"/></g></g></g></svg>
